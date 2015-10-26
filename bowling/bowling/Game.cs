@@ -16,7 +16,7 @@ namespace bowling
             if (Now < 18&&p==10)
                 Now += 2;
             else Now += 1;
-
+            //
 
         }
 
